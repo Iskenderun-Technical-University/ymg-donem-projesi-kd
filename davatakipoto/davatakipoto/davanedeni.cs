@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-
+//.
 namespace davatakipoto
 {
     public partial class davanedeni : Form
